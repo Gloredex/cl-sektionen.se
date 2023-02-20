@@ -7,7 +7,7 @@ vordf@cl-sektionen.se
 Matilda Algotsson, **Kassör**  
 ekonomi@cl-sektionen.se
 
-Alexander Jansson, **Ledamot för utbildningsfrågor**  
+Balex Jansson, **Ledamot för utbildningsfrågor**  
 utbildning@cl-sektionen.se
 
 Fanny Enocksson, **Ledamot för studiesociala- och JML-frågor**  
